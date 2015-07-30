@@ -3,6 +3,7 @@ require "dface_basic/init"
 require "dface_basic/configure"
 require "dface_basic/user"
 require "dface_basic/shop"
+require "dface_basic/session"
 
 
 module DfaceBasic
